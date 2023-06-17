@@ -12,7 +12,7 @@ import sys
 
 
 def solve(s):
-    "Write your logic here : "
+    "Write yodur logic here : "
 
 if __name__ == '__main__':
 
