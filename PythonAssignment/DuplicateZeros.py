@@ -4,7 +4,7 @@ duplicate each occurrence of zero, shifting the remaining elements to the right.
 
 Input: arr = [1,0,2,3,0,4,5,0]efwsd
 Output: [1,0,0,2,3,0,0,4]
-Explanation: After calling yourde function, dd
+Explanation: After calling yourde function,
 the input array is modified to: [1,0,0,2,3,0,0,4]dwadaw
 '''
 
