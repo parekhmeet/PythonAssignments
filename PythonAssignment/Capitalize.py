@@ -23,5 +23,6 @@ if __name__ == '__main__':
     result = solve(s)
 
     fptr.write(result + '\n')
+    
 
     fptr.close()
