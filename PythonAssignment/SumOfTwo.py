@@ -2,7 +2,7 @@
 return indices of the two numbers such that they add up to target.
  fb
 Input: nums = [1,3,7,21], target = 40
-Output: [0,1]
+Output: [0,1]efe
 Explanation: Because nums[0] + nums[1] == 40, we return [0, 1]. """
 
 class Solution(object):
