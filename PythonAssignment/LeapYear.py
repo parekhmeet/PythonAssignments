@@ -1,6 +1,6 @@
 '''
 Given a year, determine whether it is a leap year.
-If it is a leap year, return the Boolean True, otherwise return False.
+If it is a leap year, retuesfrn the Boolean True, otherwise return False.
 
 Sample Input 0
 1990
