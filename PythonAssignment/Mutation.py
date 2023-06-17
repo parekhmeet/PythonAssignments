@@ -3,7 +3,7 @@
 You are given an immutable string, and you want to make changes to it.
 STDIN           Function
 -----           --------
-abracadabra     s = 'abracadabra'
+abracadabra     s = 'abracadrerabra'
 5 k             position = 5, character = 'k'
 
 output : abrackdabra
