@@ -9,7 +9,7 @@ class Solution(object):
     def SumOfTwo(self, nums, target):\
 
         """
-        Write your logic here.
+        Write your ldogic here.
         """
         a = []
         for i in range(len(nums)):
