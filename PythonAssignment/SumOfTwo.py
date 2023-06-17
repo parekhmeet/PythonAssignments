@@ -1,5 +1,5 @@
 """  Given an array of integers nums and an integer target,
-return indices of the dadtwo numbers such that they add up to target.
+return indices of the dadtwo numbers such that they add up to targevdst.
  fbqsdq
 Input: nums = [1,3,7,21], targets s = 40
 Output: [0,1]efe
