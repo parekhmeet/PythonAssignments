@@ -1,6 +1,6 @@
 '''
 
-Given two strings s and goal,
+Given two strings s and goal,dsd
 return true if and only if s can become goal after some number of shifts on s.
 
 Input: s = "abcde", goal = "cdeab"
