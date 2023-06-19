@@ -1,6 +1,6 @@
 '''
 
-fesfYou are given an immutable string, and you want to make changes to it.
+fesfYou are given an immutable string, and yodedu want to make changes to it.
 STDIN           Function
 -----        ed   --------awdwa
 abracadabra     s = 'abracadrerabra'
