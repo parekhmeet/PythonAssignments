@@ -2,8 +2,6 @@
 You are askeddawdq to ensure that the first and last names of people begin with a capital letter in their passports.
 Forv example, alison heck shoudawdwld bccscrsacascae capitalised correctly as Alison Heck.
 '''
-fs
-
 import math
 import os
 import random
