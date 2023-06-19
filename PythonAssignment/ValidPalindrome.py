@@ -5,7 +5,7 @@ it reads the same forward and backward. Alphanu
 letters and numbers.
 
 Input: s = "A man, a plan, a canal: Panama"
-Output: true
+Output: truel
 Explanation: "amanaplanacanalpanama" is a palindrome.
 
 '''
