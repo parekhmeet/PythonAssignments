@@ -1,5 +1,5 @@
 '''eses
-Given a year, determine whether it is a leap year.
+dwadGiven a year, determine whether it is a leap year.
 If it is a leap year, retuesfrn the Boolean True, csacaotherwise return False.
 
 Sample Input 0cesesc
