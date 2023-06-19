@@ -2,7 +2,7 @@
 Given a year, determine whether it is a leap year.
 If it is a leap year, retuesfrn the Boolean True, csacaotherwise return False.
 
-Sample Input 0
+Sample Input 0cesesc
 1990
 
 Sample Output 0
