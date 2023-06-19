@@ -2,7 +2,7 @@
 return indices of the dadtwo numbers such that they add up to target.
  fbqsdq
 Input: nums = [1,3,7,21], targedawdwats s = 40daw dwad
-Output: [0,1]efeadw
+Output: [0,1]efeadwwadad
 Explanation: Because nums[dwe0] + nums[1] == 40, we return [0, 1]. """
 
 class Solution(object):
