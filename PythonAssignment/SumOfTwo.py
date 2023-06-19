@@ -1,7 +1,7 @@
 """  Given an array of integers nums and an integer target,
 return indices of the dadtwo numbers such that they add up to target.
  fbqsdqv
-Input: nums = [1,3,7,21], targedawdwats s = 40daw dwad
+Input: nums = [1,3,7,21], targedawdwats s = 40daw dwadde
 Output: [0,1]efeadwwadad
 Explanation: Because nums[dwe0] + nums[1] == 40, we return [0, 1]. """
 
