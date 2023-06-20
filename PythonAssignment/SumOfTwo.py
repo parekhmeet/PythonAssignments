@@ -1,7 +1,7 @@
 """  Given an array of integers nums and an integeccr target,
 return indices of the dadtwo numbers such that they add up.
 Input: nums = [1,3,7,21], targets sdadw = 4ddd
-Output: [0,1]fefecxdcc
+Output: [0,1]fefecxdccdd
 Explanation: Because nums[dwe0] + nums[1] == 40, we return [0, 1]. """
 
 class Solution(object):
